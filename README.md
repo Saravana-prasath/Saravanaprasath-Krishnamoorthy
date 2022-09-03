@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, Manual testing, Automation testing**
+- 💬 Ask me about **Java,Arrays, Strings, Collection freamwork, Manual testing, Automation testing**
 
 - 📫 How to reach me **prasath.may22@gmail.com**
 

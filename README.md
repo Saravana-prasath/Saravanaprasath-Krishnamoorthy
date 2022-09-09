@@ -26,7 +26,7 @@
 <a href="https://twitter.com/prasath_may22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasath_may22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saravanaprasath krishnamoorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanaprasath krishnamoorthy" height="30" width="40" /></a>
 <a href="https://instagram.com/prasath.may22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasath.may22" height="30" width="40" /></a>
-<a href="/https://www.blogger.com/profile/09193757157282173782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.blogger.com/profile/09193757157282173782" height="30" width="40" /></a>
+<a href="/http://javaforbiginners.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://javaforbiginners.blogspot.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

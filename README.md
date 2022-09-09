@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java,Arrays, Strings, Collection freamwork, Manual testing, Automation testing**
+- 📝 I regularly write articles on [https://www.blogger.com/profile/09193757157282173782](https://www.blogger.com/profile/09193757157282173782)
+
+- 💬 Ask me about **Java, Manual testing, Automation testing**
 
 - 📫 How to reach me **prasath.may22@gmail.com**
 
@@ -15,11 +17,16 @@
 
 - ⚡ Fun fact **I am fully funny**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prasath_may22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasath_may22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saravanaprasath krishnamoorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanaprasath krishnamoorthy" height="30" width="40" /></a>
 <a href="https://instagram.com/prasath.may22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasath.may22" height="30" width="40" /></a>
+<a href="/https://www.blogger.com/profile/09193757157282173782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.blogger.com/profile/09193757157282173782" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📝 I regularly write articles on [https://www.blogger.com/profile/09193757157282173782](https://www.blogger.com/profile/09193757157282173782)
+- 📝 I regularly write articles on [https://medium.com/@Saravanaprasath_Krishnamoorthy](https://medium.com/@Saravanaprasath_Krishnamoorthy)
 
 - 💬 Ask me about **Java, Manual testing, Automation testing**
 
 - 📫 How to reach me **prasath.may22@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/saravanaprasath-krishnamoorthy](www.linkedin.com/in/saravanaprasath-krishnamoorthy)
+- 📄 LinkedIn Profile www.linkedin.com/in/saravanaprasath-krishnamoorthy
 
-- ⚡ Fun fact **I am fully funny**
+- ⚡ Hobbies **I am a photographer and drawing Artist**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prasath_may22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasath_may22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saravanaprasath krishnamoorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanaprasath krishnamoorthy" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/saravanaprasath-krishnamoorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/saravanaprasath-krishnamoorthy" height="30" width="40" /></a>
 <a href="https://instagram.com/prasath.may22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasath.may22" height="30" width="40" /></a>
-<a href="/http://javaforbiginners.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://javaforbiginners.blogspot.com/" height="30" width="40" /></a>
+<a href="https://medium.com/@saravanaprasath_krishnamoorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saravanaprasath_krishnamoorthy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
